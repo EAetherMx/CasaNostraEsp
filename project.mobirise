@@ -42,7 +42,7 @@
     ],
     "uniqCompNum": 22,
     "versionPublish": "5.3.0",
-    "imageResize": true,
+    "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "8nmwrp5ukj",
